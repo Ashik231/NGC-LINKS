@@ -1,5 +1,5 @@
 
-import math
+import maths
 from typing import Union
 from pyrogram.types import Message
 from ..bot import StreamBot
