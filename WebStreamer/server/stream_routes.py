@@ -1,4 +1,4 @@
-# Avishkar Patil | AbirHasan2005
+# Ashik Mhd
 
 import math
 import logging
