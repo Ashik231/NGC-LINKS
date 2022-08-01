@@ -6,12 +6,6 @@ A link generator For telegram Files
 
 
 
-## ♢ How to make your own :
-
-<i>Either you could locally host or deploy on [Heroku](https://heroku.com)</i>
-
-#### ♢ Click on This Drop-down and get more details
-
 <br>
 <details>
   <summary><b>Deploy on Heroku :</b></summary>
