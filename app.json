@@ -1,6 +1,6 @@
 {
-  "name": "Avi-FileStreamBot",
-  "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Avishkarpatil",
+  "name": "NGC LINKS",
+  "description": "A Telegram bot to Converts Telegram files into Streamable Links. @Unavailable4allTime",
   "keywords": [
       "telegram",
       "stream",
@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/avipatilpro/FileStreamBot/",
+  "repository": "https://github.com/Ashik231/NGC-LINKS",
   "success_url": "/",
-  "logo": "https://i.ibb.co/ZJzJ9Hq/link-3x.png",
-  "website": "avipatilweb.ml",
+  "logo": "https://telegra.ph/file/c241486f8c1f133ba04e0.jpg",
+  "website": "www.newgencinemazzz.com",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
