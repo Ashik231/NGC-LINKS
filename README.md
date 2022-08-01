@@ -20,4 +20,4 @@
 
 <a href="https://t.me/Unavailable4allTime"><img title="Telegram" src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 </p>
-And
+
