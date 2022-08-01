@@ -6,22 +6,13 @@ A link generator For telegram Files
 
 
 
+<summary>Deploy To Heroku</summary>
 <br>
-<details>
-  <summary><b>Deploy on Heroku :</b></summary>
-
-
-1. Fork This Repo
-2. Click on Deploy Easily
-
-<h4> So Follow Above Steps 👆 and then also deply other wise not work</h4>
-
-Press the below button to Fast deploy on Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
-
+<p>
+<a href="https://heroku.com/deploy?template=https://github.com/Ashik231/NGC-LINKS">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
 
 <details>
   <summary><b>Host it on VPS Locally :</b></summary>
