@@ -1,5 +1,5 @@
 
-from pyrogram import Client
+from pyrogram import Clientt
 from ..vars import Var
 
 StreamBot = Client(
