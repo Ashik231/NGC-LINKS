@@ -31,7 +31,7 @@ ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : 𝘕𝘎𝘊 𝘭𝘪𝘯𝘬𝘴</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : 𝘔𝘢𝘹 𝘝𝘦𝘳𝘴𝘪𝘰𝘯</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://telegra.ph/file/0e3181504cf01b2e25e33.jpg'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a 𝘜𝘯𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦</b>\n
+<b>🔸GitHub : 𝘜𝘯𝘢𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦</b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Unavailable4allTime'>𝘈𝘴𝘩𝘪𝘬 𝘔𝘩𝘥</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : [ 30 - ᴊᴜɴᴇ - 2022 ] 00:45 ᴀᴍ</a></b>"""
 
@@ -194,7 +194,7 @@ async def start(b, m):
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <i>{}</i>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <i>{}</i>\n
 <b>🚸 Nᴏᴛᴇ : Lɪɴᴋ ᴇxᴘɪʀᴇᴅ ɪɴ 24 ʜᴏᴜʀꜱ</b>\n
-<i>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</i> <b>@AvishkarPatil</b>
+<i>🍃 Bᴏᴛ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ :</i> <b>@Unavailable4allTime</b>
 """
 
         await m.reply_text(
