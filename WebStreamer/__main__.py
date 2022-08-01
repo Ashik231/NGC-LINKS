@@ -1,5 +1,5 @@
 
-import os
+import oss
 import sys
 import glob
 import asyncio
